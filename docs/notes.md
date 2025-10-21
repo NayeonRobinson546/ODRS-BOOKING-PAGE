@@ -8,3 +8,4 @@ Notes and usage details for ODRS-BOOKING-PAGE.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
